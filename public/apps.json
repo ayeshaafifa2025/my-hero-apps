@@ -1,0 +1,507 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.template.net/76791/Free-Instagram-Logo-Vector-1.jpg",
+    "title": "Instagram",
+    "companyName": "Meta Platforms",
+    "description": "Instagram is a globally popular social media platform designed for sharing photos, videos, and stories with friends, family, and followers. Users can post photos and videos, apply filters, create Reels, and share ephemeral content through Stories. It also allows direct messaging, IGTV video uploads, and live streaming, making it a versatile platform for communication and entertainment. Businesses and creators use Instagram for marketing, reaching audiences, and brand building, while everyday users enjoy exploring trends, following favorite personalities, and sharing life moments. With over a billion active users worldwide, Instagram has become a major platform for social engagement, entertainment, and online influence. Its intuitive design, community engagement features, and constant updates keep users engaged and widely accepted across different age groups and regions.",
+    "size": 94,
+    "reviews": 120000000,
+    "ratingAvg": 4.7,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "5 star", "count": 93000000 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1611605698323-b1e99cfd37ea?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dGlrdG9rfGVufDB8fDB8fHww",
+    "title": "TikTok",
+    "companyName": "ByteDance",
+    "description": "TikTok is a dynamic short-form video platform that allows users to create, edit, and share entertaining videos. Users can apply special effects, music, and filters to enhance their content, and engage with trends and viral challenges. It provides a personalized 'For You' feed based on user interests, creating high engagement and virality. Businesses, influencers, and creators leverage TikTok to reach millions of users, making it an essential platform for social media marketing. With its simple-to-use interface and creative tools, TikTok has rapidly gained global popularity and is widely embraced by teens and adults alike for entertainment, social connection, and brand visibility.",
+    "size": 250,
+    "reviews": 50000000,
+    "ratingAvg": 4.6,
+    "downloads": 3000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 39500000 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://img.freepik.com/free-psd/whatsapp-icon-isolated-3d-render-illustration_47987-9785.jpg?semt=ais_hybrid&w=740&q=80",
+    "title": "WhatsApp",
+    "companyName": "Meta Platforms",
+    "description": "WhatsApp is a globally renowned messaging app providing secure text messaging, voice and video calls. It offers group chats, multimedia sharing, status updates, and end-to-end encryption to ensure privacy. Users can communicate seamlessly across devices worldwide. Businesses use WhatsApp Business to connect with customers, providing support and updates. Its simplicity, speed, and security have made it a trusted choice for individuals and companies, with over 2 billion users worldwide, making it one of the most widely used messaging platforms.",
+    "size": 120,
+    "reviews": 100000000,
+    "ratingAvg": 4.5,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 15000000 },
+      { "name": "5 star", "count": 83000000 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://img.freepik.com/free-psd/facebook-logo-3d-social-media-icon-isolated_47987-11965.jpg?semt=ais_hybrid&w=740&q=80",
+    "title": "Facebook",
+    "companyName": "Meta Platforms",
+    "description": "Facebook is a social networking platform that allows users to connect with friends, share updates, photos, videos, and events. It provides groups, pages, marketplace, and live streaming features, enabling communication, community building, and business marketing. With billions of users worldwide, Facebook has transformed how people socialize online and how businesses reach audiences. It is widely used for social interaction, news, entertainment, and digital marketing campaigns, with extensive tools to engage both individuals and communities.",
+    "size": 146,
+    "reviews": 80000000,
+    "ratingAvg": 4.2,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 4000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "5 star", "count": 46000000 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://static.vecteezy.com/system/resources/previews/021/059/827/non_2x/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg",
+    "title": "ChatGPT",
+    "companyName": "OpenAI",
+    "description": "ChatGPT is an AI-powered conversational assistant capable of generating human-like text, answering questions, and assisting in tasks such as content creation, coding, learning, and productivity. It can engage in informative, creative, and interactive dialogue. Users across education, business, and personal productivity rely on ChatGPT for explanations, writing assistance, and brainstorming. Its growing popularity is due to its ability to understand context, respond intelligently, and provide reliable assistance, making it widely accepted among tech-savvy users and professionals.",
+    "size": 100,
+    "reviews": 20000000,
+    "ratingAvg": 4.8,
+    "downloads": 200000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 15900000 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://img.freepik.com/free-psd/telegram-social-media-icon-3d_47987-11950.jpg?semt=ais_hybrid&w=740&q=80",
+    "title": "Telegram",
+    "companyName": "Telegram FZ LLC",
+    "description": "Telegram is a fast, cloud-based messaging app offering text, voice, and video communication with a focus on privacy and security. It supports group chats, channels for broadcasting, multimedia sharing, file transfers, and end-to-end encrypted secret chats. Telegram is widely popular among individuals, communities, and businesses who value secure messaging, fast delivery, and flexibility. Its cross-platform accessibility and advanced features like bots, stickers, and large file sharing make it a highly accepted alternative to traditional messaging apps.",
+    "size": 68,
+    "reviews": 80000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1500000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "3 star", "count": 3000000 },
+      { "name": "4 star", "count": 12000000 },
+      { "name": "5 star", "count": 64000000 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://images.unsplash.com/photo-1649180543887-158357417159?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8eW91dHViZSUyMGxvZ298ZW58MHx8MHx8fDA%3D",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "description": "YouTube is the world’s largest video-sharing platform, allowing users to watch, upload, and interact with videos on any topic imaginable. It provides subscriptions, playlists, live streaming, shorts, and community engagement tools. Users leverage YouTube for education, entertainment, news, music, and tutorials. Creators use it to build audiences, monetize content, and share expertise. Its accessibility, variety of content, and personalized recommendations have made it globally accepted and widely used by individuals, professionals, and organizations.",
+    "size": 250,
+    "reviews": 150000000,
+    "ratingAvg": 4.8,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 7000000 },
+      { "name": "4 star", "count": 30000000 },
+      { "name": "5 star", "count": 110000000 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://w7.pngwing.com/pngs/419/148/png-transparent-duolingo-logo-brand-logos-brands-in-colors-icon.png",
+    "title": "Duolingo",
+    "companyName": "Duolingo Inc.",
+    "description": "Duolingo is an engaging language-learning platform that turns learning into a fun, gamified experience. It offers bite-sized lessons, interactive exercises, speaking, listening, and writing activities, and progress tracking. Users can learn multiple languages at their own pace while earning rewards, streaks, and achievements. Its intuitive interface, playful approach, and community challenges make it a favorite for students, travelers, and professionals. Duolingo’s widespread adoption demonstrates its effectiveness and global acceptance as a leading educational tool.",
+    "size": 85,
+    "reviews": 50000000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 7000000 },
+      { "name": "5 star", "count": 42000000 }
+    ]
+  },
+   {
+    "id": 9,
+    "image": "https://i.imgur.com/spotify.png",
+    "title": "Spotify",
+    "companyName": "Spotify Ltd.",
+    "description": "Spotify is a leading music streaming platform offering millions of songs, podcasts, and playlists. Users can explore curated playlists, discover new music through recommendations, and create their own playlists. Spotify provides offline listening, high-quality streaming, and social sharing options. It is widely used by music lovers globally for entertainment, relaxation, and inspiration. Artists leverage Spotify to reach audiences and monetize their content. Its user-friendly interface and extensive music library have made it one of the most popular audio streaming apps in the world.",
+    "size": 100,
+    "reviews": 45000000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 700000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 37100000 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://i.imgur.com/netflix.png",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "description": "Netflix is a popular subscription-based streaming platform that offers a vast library of movies, TV shows, documentaries, and original content. Users can stream content on-demand, create profiles, and get personalized recommendations. It supports multiple devices, offline downloads, and high-definition streaming. Netflix has transformed home entertainment globally and is widely accepted due to its content variety, intuitive interface, and original productions that attract millions of users worldwide.",
+    "size": 150,
+    "reviews": 30000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 9000000 },
+      { "name": "5 star", "count": 19800000 }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://i.imgur.com/googlemaps.png",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "description": "Google Maps is a comprehensive navigation and mapping app that provides real-time GPS navigation, traffic conditions, route planning, and points of interest. Users can explore nearby places, get walking, driving, and transit directions, and view Street View imagery. Businesses use Google Maps to list locations and interact with customers. Its global coverage, accuracy, and reliability make it widely accepted for travel, commuting, and local exploration.",
+    "size": 120,
+    "reviews": 100000000,
+    "ratingAvg": 4.7,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1500000 },
+      { "name": "2 star", "count": 700000 },
+      { "name": "3 star", "count": 3000000 },
+      { "name": "4 star", "count": 18000000 },
+      { "name": "5 star", "count": 81000000 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://i.imgur.com/snapchat.png",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "description": "Snapchat is a multimedia messaging app that allows users to send photos and videos that disappear after viewing. It includes Stories, Snap Map, chat, and Discover content. Users can apply lenses, filters, and AR effects to enhance photos and videos. Snapchat is popular among younger audiences for social interaction, creative expression, and entertainment. Brands and influencers also leverage Snapchat for marketing and engagement due to its high user activity and interactive features.",
+    "size": 95,
+    "reviews": 45000000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 900000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 2500000 },
+      { "name": "4 star", "count": 12000000 },
+      { "name": "5 star", "count": 29000000 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://i.imgur.com/linkedin.png",
+    "title": "LinkedIn",
+    "companyName": "Microsoft Corporation",
+    "description": "LinkedIn is a professional networking platform that connects professionals, companies, and job seekers globally. Users can create profiles, share updates, connect with colleagues, apply for jobs, and participate in professional communities. Businesses use LinkedIn for recruiting, marketing, and brand building. Its networking, educational, and career development tools make it widely accepted among professionals and organizations worldwide.",
+    "size": 100,
+    "reviews": 20000000,
+    "ratingAvg": 4.5,
+    "downloads": 700000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 3500000 },
+      { "name": "5 star", "count": 15700000 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://i.imgur.com/zoom.png",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "description": "Zoom is a leading video conferencing platform that enables users to host online meetings, webinars, and virtual events. It provides features such as screen sharing, breakout rooms, chat, recording, and scheduling. Zoom is widely used in education, business, and personal communication. Its reliability, ease of use, and high-quality video/audio have made it a staple for remote work and virtual collaboration globally.",
+    "size": 120,
+    "reviews": 25000000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 6000000 },
+      { "name": "5 star", "count": 17700000 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://i.imgur.com/tinder.png",
+    "title": "Tinder",
+    "companyName": "Match Group",
+    "description": "Tinder is a location-based dating app that allows users to discover, connect, and chat with potential matches. Users swipe right to like and left to pass on profiles, engage via messaging, and explore premium features like Super Likes and Boost. It is widely used by singles worldwide for dating, networking, and casual social connections. Its simplicity, gamified matching system, and popularity among young adults have made it a globally accepted dating platform.",
+    "size": 70,
+    "reviews": 30000000,
+    "ratingAvg": 4.1,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 12000000 },
+      { "name": "5 star", "count": 15000000 }
+    ]
+  },
+  {
+    "id": 16,
+    "image": "https://i.imgur.com/amazon.png",
+    "title": "Amazon",
+    "companyName": "Amazon.com, Inc.",
+    "description": "Amazon is a global e-commerce platform offering a wide variety of products, including electronics, clothing, books, and groceries. Users can browse, compare, and purchase products with fast delivery options. It also offers services like Prime Video, Amazon Music, and Kindle. Amazon’s convenience, vast selection, and customer service make it widely accepted and trusted for online shopping and digital services worldwide.",
+    "size": 150,
+    "reviews": 70000000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1200000 },
+      { "name": "2 star", "count": 600000 },
+      { "name": "3 star", "count": 2500000 },
+      { "name": "4 star", "count": 18000000 },
+      { "name": "5 star", "count": 47000000 }
+    ]
+  },
+  {
+    "id": 17,
+    "image": "https://i.imgur.com/ebay.png",
+    "title": "eBay",
+    "companyName": "eBay Inc.",
+    "description": "eBay is an online marketplace that allows users to buy and sell products globally. Users can participate in auctions, purchase fixed-price items, and access a wide variety of products from electronics to collectibles. eBay also provides seller tools, buyer protections, and ratings. Its global reach, reliability, and ease of use make it a widely accepted platform for online commerce and second-hand trading.",
+    "size": 120,
+    "reviews": 35000000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 700000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 10000000 },
+      { "name": "5 star", "count": 21000000 }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "https://i.imgur.com/twitch.png",
+    "title": "Twitch",
+    "companyName": "Twitch Interactive",
+    "description": "Twitch is a live streaming platform focused on video gaming, eSports, music, and creative content. Users can broadcast live, watch streams, chat with streamers, and follow channels. It is widely popular among gamers, content creators, and audiences seeking entertainment and engagement. Twitch’s interactive features, community-driven approach, and real-time engagement have made it one of the top platforms for live content globally.",
+    "size": 110,
+    "reviews": 20000000,
+    "ratingAvg": 4.7,
+    "downloads": 300000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 4500000 },
+      { "name": "5 star", "count": 15500000 }
+    ]
+  },
+  {
+    "id": 19,
+    "image": "https://i.imgur.com/uber.png",
+    "title": "Uber",
+    "companyName": "Uber Technologies Inc.",
+    "description": "Uber is a ride-hailing and mobility platform that allows users to book rides, track drivers, and make payments seamlessly. It also offers Uber Eats for food delivery. Its convenience, real-time tracking, and reliable services have made it widely accepted for personal transportation, commuting, and delivery solutions globally.",
+    "size": 150,
+    "reviews": 40000000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 2500000 },
+      { "name": "4 star", "count": 12000000 },
+      { "name": "5 star", "count": 23000000 }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "https://i.imgur.com/lyft.png",
+    "title": "Lyft",
+    "companyName": "Lyft, Inc.",
+    "description": "Lyft is a ride-sharing service offering personal transportation, carpooling, and e-bikes. It provides easy booking, driver tracking, and secure payment options. Lyft is popular in multiple regions for commuting, convenience, and safety. Its user-friendly platform and widespread adoption make it a reliable alternative for urban transportation.",
+    "size": 120,
+    "reviews": 20000000,
+    "ratingAvg": 4.2,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 250000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 6000000 },
+      { "name": "5 star", "count": 13000000 }
+    ]
+  },
+  {
+    "id": 21,
+    "image": "https://i.imgur.com/airbnb.png",
+    "title": "Airbnb",
+    "companyName": "Airbnb, Inc.",
+    "description": "Airbnb is a global platform that connects travelers with hosts offering unique accommodations, including homes, apartments, and experiences. Users can book stays, communicate with hosts, and leave reviews. Airbnb offers convenience, variety, and trusted user reviews, making it widely accepted among travelers and hosts for short-term stays and unique experiences.",
+    "size": 140,
+    "reviews": 35000000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 7000000 },
+      { "name": "5 star", "count": 26300000 }
+    ]
+  },
+  {
+    "id": 22,
+    "image": "https://i.imgur.com/paypal.png",
+    "title": "PayPal",
+    "companyName": "PayPal Holdings",
+    "description": "PayPal is a secure online payment platform allowing users to send, receive, and manage payments. It supports peer-to-peer transactions, online shopping payments, and international transfers. PayPal is widely used by individuals and businesses for safe and convenient transactions. Its security features, ease of use, and global acceptance make it a trusted platform for digital payments worldwide.",
+    "size": 100,
+    "reviews": 30000000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 250000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 6000000 },
+      { "name": "5 star", "count": 22250000 }
+    ]
+  },
+  {
+    "id": 23,
+    "image": "https://i.imgur.com/adobereader.png",
+    "title": "Adobe Acrobat Reader",
+    "companyName": "Adobe Inc.",
+    "description": "Adobe Acrobat Reader is a powerful app for viewing, signing, annotating, and managing PDF documents. Users can open PDFs, fill forms, and collaborate on documents seamlessly. It is widely accepted in education, business, and professional environments for document management and digital workflows.",
+    "size": 150,
+    "reviews": 15000000,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 11000000 }
+    ]
+  },
+  {
+    "id": 24,
+    "image": "https://i.imgur.com/zoominfo.png",
+    "title": "ZoomInfo",
+    "companyName": "ZoomInfo Technologies",
+    "description": "ZoomInfo is a business intelligence platform providing B2B contact, company, and market insights. Users leverage its database for sales, marketing, and recruitment purposes. Its reliable data and analytics capabilities make it widely used among professionals and businesses for lead generation and market research.",
+    "size": 120,
+    "reviews": 500000,
+    "ratingAvg": 4.4,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 25000 },
+      { "name": "3 star", "count": 50000 },
+      { "name": "4 star", "count": 200000 },
+      { "name": "5 star", "count": 200000 }
+    ]
+  },
+  {
+    "id": 25,
+    "image": "https://i.imgur.com/evernote.png",
+    "title": "Evernote",
+    "companyName": "Evernote Corporation",
+    "description": "Evernote is a note-taking and productivity app that helps users capture ideas, organize notes, set reminders, and collaborate. Its cross-device syncing, multimedia support, and organizational tools make it widely used among students, professionals, and creatives to manage tasks, projects, and personal notes efficiently.",
+    "size": 100,
+    "reviews": 10000000,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 6500000 }
+    ]
+  },
+  {
+    "id": 26,
+    "image": "https://i.imgur.com/slack.png",
+    "title": "Slack",
+    "companyName": "Slack Technologies",
+    "description": "Slack is a business communication and collaboration platform providing channels, direct messaging, file sharing, and integrations. Teams use Slack for project collaboration, internal communication, and productivity. Its convenience, integration with tools, and real-time messaging have made it widely adopted among businesses worldwide.",
+    "size": 120,
+    "reviews": 25000000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 6000000 },
+      { "name": "5 star", "count": 17700000 }
+    ]
+  },
+  {
+    "id": 27,
+    "image": "https://i.imgur.com/zoomcar.png",
+    "title": "ZoomCar",
+    "companyName": "ZoomCar India",
+    "description": "ZoomCar is a self-drive car rental platform that allows users to rent cars by the hour or day. It provides easy booking, transparent pricing, and a variety of vehicles. Its convenience, flexibility, and accessibility have made it popular among travelers and urban commuters in regions where it operates.",
+    "size": 120,
+    "reviews": 500000,
+    "ratingAvg": 4.3,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 200000 },
+      { "name": "5 star", "count": 780000 }
+    ]
+  },
+  {
+    "id": 28,
+    "image": "https://i.imgur.com/yahoo.png",
+    "title": "Yahoo Mail",
+    "companyName": "Yahoo Inc.",
+    "description": "Yahoo Mail is an email client offering secure, reliable, and organized email management. Users can access emails, attachments, contacts, calendar integration, and customizable folders. It is widely used for personal and professional communication. Its security features, storage options, and user-friendly interface make it accepted globally among email services.",
+    "size": 90,
+    "reviews": 15000000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 10500000 }
+    ]
+  }
+
+]
