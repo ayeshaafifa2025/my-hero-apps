@@ -1,7 +1,10 @@
 @import "tailwindcss";
 @plugin "daisyui";
 
-
+.nav-link {
+  display: inline-block; 
+  padding-bottom: 2px;   
+}
 .nav-link.active {
   color: white;
   border-bottom: 2px solid white;
