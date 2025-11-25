@@ -1,2 +1,8 @@
 @import "tailwindcss";
 @plugin "daisyui";
+
+
+.nav-link.active {
+  color: white;
+  border-bottom: 2px solid white;
+}

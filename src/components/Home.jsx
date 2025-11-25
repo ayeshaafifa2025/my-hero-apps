@@ -2,6 +2,11 @@ import React, { Suspense } from 'react';
 import { useLoaderData } from 'react-router';
 import TrendingApps from './TrendingApps';
 
+
+
+
+
+
 const Home = () => {
      const data= useLoaderData();
     console.log(data);
@@ -17,7 +22,10 @@ const Home = () => {
             </Suspense>
         </div>
 
+       
+
         </div>
+        
         
        
     );

@@ -8,7 +8,7 @@ const Banner = () => {
         <div className='' >
            <h1 className='text-5xl mb-5 text-black font-bold text-center'> We Build <br /> <span className='text-purple-500 '>Productive</span>
  Apps</h1>
-            <p className='text-center mb-5 font-bold text-xl text-gray-600'>At HERO.IO , we craft innovative apps designed to make everyday life simpler, smarter, and more exciting. <br />Our goal is to turn your ideas into digital experiences that truly make an impact.</p>
+            <p className='text-center mb-5 font-bold text-xl text-gray-600'>At AppNexus , we craft innovative apps designed to make everyday life simpler, smarter, and more exciting. <br />Our goal is to turn your ideas into digital experiences that truly make an impact.</p>
 
             <div className='flex justify-center gap-4 mt-6'> 
                 <button className="btn text-white">

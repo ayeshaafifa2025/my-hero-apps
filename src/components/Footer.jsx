@@ -10,7 +10,7 @@ const Footer = () => {
     
     {/* Logo & Branding */}
     <div>
-      <h2 className="text-2xl font-bold text-white">HERO.IO</h2>
+      <h2 className="text-2xl font-bold text-white">AppNexus</h2>
       <p className="mt-3 text-gray-400">
         Building productive & user-friendly apps to make life easier.
       </p>
@@ -48,7 +48,7 @@ const Footer = () => {
   {/* Divider */}
   <div className="border-t border-gray-700 mt-10 pt-5 text-center">
     <p className="text-gray-400 text-sm">
-      © {new Date().getFullYear()} HERO.IO — All Rights Reserved.
+      © {new Date().getFullYear()} AppNexus — All Rights Reserved.
     </p>
   </div>
 </footer>
