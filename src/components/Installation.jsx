@@ -7,6 +7,7 @@ import Installed from './Installed';
 
 const Installation = () => {
     const [installation , setInstallation] = useState([]);
+    
 
     const data = useLoaderData();
     console.log(data);
@@ -18,13 +19,21 @@ const Installation = () => {
             const myInstallation = data.filter(app=>storedAppData.includes(app.id));
             console.log(myInstallation);
             setInstallation(myInstallation);
-
-
-
-
-
         },[]
     )
+
+     const handleSort = (type) => {
+        let sorted = [...installation];
+
+        if (type === "high-low") {
+            sorted.sort((a, b) => b.downloads - a.downloads);
+        }
+        if (type === "low-high") {
+            sorted.sort((a, b) => a.downloads - b.downloads);
+        }
+
+        setInstallation(sorted);  
+    };
 
 
     return (
@@ -36,7 +45,17 @@ const Installation = () => {
              <h1 className='text-gray-700 text-center font-bold text-xl mb-5'>Explore All Trending Apps on the Market developed by us.</h1>
              <div className='mb-10 flex justify-between items-center'>
                 <p className='text-black text-2xl'>({installation.length})Apps Found</p>
-                <button className='btn'>sort by size</button>
+                {/* Sort functionality  */}
+                <div>
+                    <details className="dropdown">
+  <summary className="btn m-1">Sort by downloads</summary>
+  <ul className="menu dropdown-content bg-base-100 rounded-box z-1 w-52 p-2 shadow-sm">
+    <li><button onClick={() => handleSort("high-low")}>High-Low</button></li>
+ <li>   <button onClick={() => handleSort("low-high")}>Low-High</button></li>
+  </ul>
+</details>
+
+                </div>
              </div>
             <div className=' mx-auto '>
                  {

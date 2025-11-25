@@ -38,7 +38,7 @@ const AppDetailsCard = ({data}) => {
            <p className='text-black font-bold text-3xl mb-5'>{data.title}</p> 
            <p className='mb-5'>Developed by <span className='text-purple-500'>{data.companyName}</span></p>
            <div className='flex justify-evenly items-center gap-5 mb-5'>
-            <p >⬇️ <br />Downloads <br /><span className='text-black text-4xl font-bold'>{data.downloads}</span></p>
+            <p >⬇️ <br />Downloads <br /><span className='text-black text-4xl font-bold'>{data.downloads}M</span></p>
             <p>⭐ <br />Average Ratings <br /><span className='text-black text-4xl font-bold'>{data.ratingAvg}</span></p>
             <p>💜 <br />Total Reviews <br /><span className='text-black text-4xl font-bold'>{data.reviews}</span></p>
 

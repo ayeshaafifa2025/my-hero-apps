@@ -1,5 +1,5 @@
 [
-   {
+  {
     "id": 1,
     "image": "https://images.template.net/76791/Free-Instagram-Logo-Vector-1.jpg",
     "title": "Instagram",
@@ -8,7 +8,7 @@
     "size": 94,
     "reviews": "95 K",
     "ratingAvg": 4.7,
-    "downloads": "5 M",
+    "downloads": 5,
     "ratings": [
       { "name": "1 star", "count": 3000000 },
       { "name": "2 star", "count": 1500000 },
@@ -26,7 +26,7 @@
     "size": 250,
     "reviews": "90 K",
     "ratingAvg": 4.6,
-    "downloads": "3 M",
+    "downloads": 3,
     "ratings": [
       { "name": "1 star", "count": 1000000 },
       { "name": "2 star", "count": 500000 },
@@ -44,7 +44,7 @@
     "size": 120,
     "reviews": "60 K",
     "ratingAvg": 4.5,
-    "downloads": "8 M",
+    "downloads": 8,
     "ratings": [
       { "name": "1 star", "count": 2000000 },
       { "name": "2 star", "count": 1000000 },
@@ -62,7 +62,7 @@
     "size": 146,
     "reviews": "80 K",
     "ratingAvg": 4.2,
-    "downloads": "6 M",
+    "downloads": 6,
     "ratings": [
       { "name": "1 star", "count": 4000000 },
       { "name": "2 star", "count": 2000000 },
@@ -80,7 +80,7 @@
     "size": 100,
     "reviews": "45 K",
     "ratingAvg": 4.8,
-    "downloads": "9 M",
+    "downloads": 9,
     "ratings": [
       { "name": "1 star", "count": 400000 },
       { "name": "2 star", "count": 200000 },
@@ -98,7 +98,7 @@
     "size": 68,
     "reviews": "10 K",
     "ratingAvg": 4.5,
-    "downloads": "1 M",
+    "downloads": 1,
     "ratings": [
       { "name": "1 star", "count": 1500000 },
       { "name": "2 star", "count": 800000 },
@@ -116,7 +116,7 @@
     "size": 250,
     "reviews": "60 K",
     "ratingAvg": 4.8,
-    "downloads": "5 M",
+    "downloads": 5,
     "ratings": [
       { "name": "1 star", "count": 5000000 },
       { "name": "2 star", "count": 2000000 },
@@ -134,7 +134,7 @@
     "size": 85,
     "reviews": "50 K",
     "ratingAvg": 4.7,
-    "downloads": "5 M",
+    "downloads": 5,
     "ratings": [
       { "name": "1 star", "count": 600000 },
       { "name": "2 star", "count": 300000 },
@@ -142,5 +142,4 @@
       { "name": "4 star", "count": 7000000 },
       { "name": "5 star", "count": 42000000 }
     ]
-  }
-]
+  }]

@@ -25,7 +25,7 @@ const App = ({single}) => {
 {/* Downloads and rating division */}
       <div className="flex justify-between items-center">
         
-        <button className="btn font-bold text-blue-600 rounded-xl text-xl mb-2">⬇️{single.downloads}</button>
+        <button className="btn font-bold text-blue-600 rounded-xl text-xl mb-2">⬇️{single.downloads}M</button>
         <button className="btn font-bold rounded-xl text-yellow-600 text-xl mb-2">⭐{single.ratingAvg}</button>
         
       </div>
